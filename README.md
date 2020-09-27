@@ -5,4 +5,8 @@ Client Steve has enlisted our support in order to automate his analysis of stock
 The client asked that we specifically analyze the *Total Daily Volume* and the *Yearly Return* for each of the stocks listed below from 2017 to 2018. <br />
 ![](All_stocks_2017.png) <br /> <br />
 ![](All_stocks_2018.png) <br />
-**2017 Analysis** <br />
+The project provided the following macros for client Steve. <br />
+![](macro_buttons.png) <br />
+enabled him to run these specific analysis on any worksheet that is similarly formatted with any number of observed tickers
+**Analysis** <br />
+Overall, 2017 was a very good year for alternative energy producing companies, save for *TerraForm Power (TERP)*. In fact, the client's parents inverstment interest, *Daqo New Energy Corp (DQ)*, yielded the highest returns of any of the observed stocks nearly tripling. However, 2018 makes for a very different picture for renewable energy showing big losses for each of the monitored companies save for *Enphase Energy Inc. (ENPH)* and *Sunrun Inc. (RUN)* who gained nearly 82% and 84%, respectively. 
