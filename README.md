@@ -16,3 +16,5 @@ Overall, 2017 was a very good year for alternative energy producing companies, s
 Refactoring code is essential to the data scientist/analyist's workflow. It should be a reflective process throughout the code-writing process and post writing. Code is always changing and updating and therefore the way to code more efficiently or stronger will change over time. Making a habit of reviewing code, if not refactoring outright, periodically will serve an upcoming data scientist/analysis well. Such a practice will not only make for better programs, but will increase the retention and fluency of the coder themself. <br />
 **Comparing Run Times** <br />
 Speed is a clear indicator of code efficiency and the amount of memory taken to perfom the tasks within the program. Immediately below are the run times of my original code that I wrote during the module 2 exercises. Following, are the run times of the refactored code from the given VBA_Challenge script. <br />
+*My originally written code* ![](VBA_Challenge_2017.png) ![](VBA_Challenge_2017.png) <br /> <br />
+*Refactored Code from VBA_Challenge Script*
