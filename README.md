@@ -18,3 +18,5 @@ Refactoring code is essential to the data scientist/analyist's workflow. It shou
 Speed is a clear indicator of code efficiency and the amount of memory taken to perfom the tasks within the program. Immediately below are the run times of my original code that I wrote during the module 2 exercises. Following, are the run times of the refactored code from the given VBA_Challenge script. <br />
 *My originally written code* ![](VBA_Challenge_2017.png) ![](VBA_Challenge_2017.png) <br /> <br />
 *Refactored Code from VBA_Challenge Script*
+![](VBA_Challenge_2017_Refactored.png) ![](VBA_Challenge_2018_Refactored.png) <br />
+Clearly, the refactored code ran 10 times faster than my original code and is more efficient. However, the refactored code is limited in that we would have to manually update the code should Steven decide to add or swap out other stocks for his observations. Depending on the scope of Steve's interest, this might not be a relevant concern. 
